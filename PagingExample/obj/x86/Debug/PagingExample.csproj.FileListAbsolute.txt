@@ -1,0 +1,13 @@
+c:\users\atx01\documents\visual studio 2010\Projects\PagingExample\PagingExample\bin\Debug\PagingExample.exe
+c:\users\atx01\documents\visual studio 2010\Projects\PagingExample\PagingExample\bin\Debug\PagingExample.pdb
+c:\users\atx01\documents\visual studio 2010\Projects\PagingExample\PagingExample\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\atx01\documents\visual studio 2010\Projects\PagingExample\PagingExample\obj\x86\Debug\MainWindow.baml
+c:\users\atx01\documents\visual studio 2010\Projects\PagingExample\PagingExample\obj\x86\Debug\MainWindow.g.cs
+c:\users\atx01\documents\visual studio 2010\Projects\PagingExample\PagingExample\obj\x86\Debug\App.g.cs
+c:\users\atx01\documents\visual studio 2010\Projects\PagingExample\PagingExample\obj\x86\Debug\PagingExample_MarkupCompile.cache
+c:\users\atx01\documents\visual studio 2010\Projects\PagingExample\PagingExample\obj\x86\Debug\PagingExample.g.resources
+c:\users\atx01\documents\visual studio 2010\Projects\PagingExample\PagingExample\obj\x86\Debug\PagingExample.Properties.Resources.resources
+c:\users\atx01\documents\visual studio 2010\Projects\PagingExample\PagingExample\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\atx01\documents\visual studio 2010\Projects\PagingExample\PagingExample\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\atx01\documents\visual studio 2010\Projects\PagingExample\PagingExample\obj\x86\Debug\PagingExample.exe
+c:\users\atx01\documents\visual studio 2010\Projects\PagingExample\PagingExample\obj\x86\Debug\PagingExample.pdb
